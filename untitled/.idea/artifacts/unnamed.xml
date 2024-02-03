@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="root">
+      <element id="dir-copy" path="$USER_HOME$/Downloads/One Time/apache-tomcat-9.0.82-windows-x64" />
+      <element id="artifact" artifact-name="untitled:war" />
+      <element id="dir-copy" path="$USER_HOME$/Downloads/One Time/apache-tomcat-9.0.82-windows-x64/apache-tomcat-9.0.82" />
+      <element id="artifact" artifact-name="untitled:war exploded" />
+    </root>
+  </artifact>
+</component>
